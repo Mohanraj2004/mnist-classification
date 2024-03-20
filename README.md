@@ -43,7 +43,8 @@ Evaluate the model with the testing data
 Fit the model and predict the single input
 
 ## PROGRAM
-
+## Developed by: Mohanraj S
+## Register number:212221230065S
 ~~~
 import numpy as np
 from tensorflow import keras
