@@ -59,8 +59,8 @@ End the program.
 ## PROGRAM:
 
 ```python
-# Developed by: Anto Richard.S
-# Reg.No: 212221240005
+# Developed by: S.mohanraj
+# Reg.No: 212221230065
 
 Program To Develop a convolutional deep neural network for digit classification and to verify the response for scanned handwritten images.
 
