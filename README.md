@@ -50,8 +50,8 @@ Predict  the output for the given handwritten input.
 
 ## PROGRAM
 ```
-#Developed by: Swetha.K.P
-#Registration number: 212220230053
+#Developed by: Mohanraj S
+#Registration number: 212221230065
 
 import numpy as np
 from tensorflow import keras
